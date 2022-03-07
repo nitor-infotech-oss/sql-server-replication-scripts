@@ -1,0 +1,1 @@
+exec sp_adddistributor @distributor = N'<SourceSQLInstance>', @password = N'' 
